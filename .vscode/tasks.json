@@ -8,4 +8,4 @@
     "showOutput": "silent",
     "isWatching": true,
     "problemMatcher":"$tsc-watch"
-}
+}   
